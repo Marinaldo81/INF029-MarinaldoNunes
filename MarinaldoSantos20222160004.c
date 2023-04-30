@@ -97,24 +97,7 @@ DataQuebrada quebraData(char data[]){
     return dq;
     }  
  
-
-	int j = i + 1; //anda 1 cada para pular a barra
-	i = 0;
-
-	for (; data[j] != '/'; j++){
-		sMes[i] = data[j];
-		i++;
-	}
-
-	if(i == 1 || i == 2){ // testa se tem 1 ou dois digitos
-		sMes[i] = '\0';  // coloca o barra zero no final
-	}else {
-		dq.valido = 0;
-    return dq;
-  }
-	
-
- 
+		 
 	j = j + 1; // anda 1 cada para pular a barra
   i = 0;
   // 9/1/2014
