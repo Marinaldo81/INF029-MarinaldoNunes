@@ -11,10 +11,10 @@
 //  O aluno deve preencher seus dados abaixo, e implementar as questões do trabalho
 
 //  ----- Dados do Aluno -----
-//  Nome:
-//  email:
-//  Matrícula:
-//  Semestre:
+//  Nome: Marinaldo Nunes Santos  
+//   email: ti.marinaldo@gmail.com    
+//   Matrícula:202221600004
+//   Semestre: 2º semestre
 
 //  Copyright © 2016 Renato Novais. All rights reserved.
 // Última atualização: 07/05/2021
@@ -57,4 +57,4 @@ int let (char c, char *texto, int isCaseSensitive);
 int encontrar(char *strTexto, char *strBusca, int *posicoes);
 
 
-#endif  // TRABALHO1_PRIMEIROULTIMONOMEMATRICULA_H
+#endif  // TRABALHO1_MARINALDOSANTOS20222160004_H
