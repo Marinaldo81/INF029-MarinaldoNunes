@@ -6,13 +6,6 @@
 
 vetorPrincipal vP[TAM];
 
-void dobrar(int *x)
-{
-
-    *x = *x * 2;
-}
-
-
 
 //EstruturaVetores vetorPrincipal;
 /*
